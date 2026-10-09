@@ -2,7 +2,7 @@ fastapi
 uvicorn[standard]
 python-multipart
 sqlalchemy
-psycopg2-binary
+psycopg[binary]
 python-dotenv
 qrcode[pil]
 pillow
